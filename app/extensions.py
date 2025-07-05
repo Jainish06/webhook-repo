@@ -20,4 +20,4 @@
 
 from flask_pymongo import PyMongo
 
-mongo = PyMongo(uri="mongodb+srv://jainish:Jainish123@requests.bt0nhtp.mongodb.net/?retryWrites=true&w=majority&appName=Requests")
+mongo = PyMongo()
